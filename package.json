@@ -1,0 +1,18 @@
+{
+  "name": "lint-empty-cell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postabular-plugin"
+  ],
+  "author": "Poga Po",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "postabular": "0.0.6"
+  }
+}
